@@ -8,7 +8,7 @@
 
 Current Versions:
 
-* Chia: [1.3.2](https://github.com/Chia-Network/chia-blockchain/)
+* Chia: [1.3.3](https://github.com/Chia-Network/chia-blockchain/)
 * Plotman: [v0.5.1](https://github.com/ericaltendorf/plotman/)
 * Farmr: [1.7.7.4](https://github.com/joaquimguimaraes/farmr/)
 * MadMax: [master / 2ffe7a6e84370d1a54e558deb392bdca9dfd89cb](https://github.com/Chia-Network/chia-plotter-madmax/)
