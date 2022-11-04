@@ -117,8 +117,4 @@ if [[ $chiadog == 'true' ]] ; then
 	(cd /chiadog/ && sleep 60 && . ./venv/bin/activate && python3 main.py --config /data/chiadog/config.yaml) &
 fi
 
-if [[ $plotman == 'true' ]]; then
-	(nohup plotman plot >> /data/plotman/daemon.log 2>&1) &
-fi
-
 while true; do sleep 30; done;
