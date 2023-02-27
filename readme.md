@@ -8,7 +8,7 @@
 
 Current Versions:
 
-* Chia: [1.6.2](https://github.com/Chia-Network/chia-blockchain/)
+* Chia: [1.7.0](https://github.com/Chia-Network/chia-blockchain/)
 * Farmr: [1.7.7.4](https://github.com/joaquimguimaraes/farmr/)
 * ChiaDog: [v0.7.0](https://github.com/martomi/chiadog/)
 
