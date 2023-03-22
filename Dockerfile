@@ -12,7 +12,7 @@ ENV farmer_port="null"
 ENV testnet="false"
 ENV full_node_port="null"
 ENV TZ="UTC"
-ENV CHIA_BRANCH="1.7.0"
+ENV CHIA_BRANCH="1.7.1"
 ENV CHIADOG_VERSION="v0.7.0"
 ENV FARMR_VERSION="v1.7.7.4"
 
